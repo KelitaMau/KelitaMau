@@ -1,7 +1,7 @@
 
 # <img src="bannerKelim.png" width="800"/> 
 
-## <p style="color:orange;font-size:large; font-family: consolas">Futuro ingeniero de sistemas con pasión por la programación y el desarrollo web. Aspiro a convertirme en un desarrollador versátil y eficiente, capaz de abordar desafíos complejos con creatividad y lógica. Estoy abierto a colaborar en proyectos que me permitan crecer profesionalmente y aportar valor con mis conocimientos</p>
+#### Futuro ingeniero de sistemas con pasión por la programación y el desarrollo web. Aspiro a convertirme en un desarrollador versátil y eficiente, capaz de abordar desafíos complejos con creatividad y lógica. Estoy abierto a colaborar en proyectos que me permitan crecer profesionalmente y aportar valor con mis conocimientos.
 
 ## Technology Stack 💻
 
