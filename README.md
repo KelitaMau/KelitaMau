@@ -1,7 +1,7 @@
 
 # <img src="bannerKelim.png" width="400"/> 
 
-# <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="180"/> Welcome 👋
+# <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="360"/> Welcome 👋
 <!--
 **KelitaMau/KelitaMau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
