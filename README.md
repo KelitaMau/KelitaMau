@@ -1,12 +1,13 @@
 
 # <img src="bannerKelim.png" width="800"/> 
 
-# <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="180"/> Welcome 👋
-<!--
-**KelitaMau/KelitaMau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p style="color:white;font-size:small; font-family: consolas">Futuro ingeniero de sistemas con pasión por la programación y el desarrollo web. Aspiro a convertirme en un desarrollador versátil y eficiente, capaz de abordar desafíos complejos con creatividad y lógica. Estoy abierto a colaborar en proyectos que me permitan crecer profesionalmente y aportar valor con mis conocimientos</p>
 
-Here are some ideas to get you started:
+## Technology Stack 💻
 
+
+
+<!-- ## Skills 🎯
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
