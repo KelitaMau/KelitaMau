@@ -1,9 +1,23 @@
 
-# <img src="bannerKelim.png" width="800"/> 
+# <img src="bannerKelim2.png" width="800"/> 
 
-### Futuro ingeniero de sistemas con pasión por la programación y el desarrollo web. Aspiro a convertirme en un desarrollador versátil y eficiente, capaz de abordar desafíos complejos con creatividad y lógica. Estoy abierto a colaborar en proyectos que me permitan crecer profesionalmente y aportar valor con mis conocimientos.
+Future systems engineer with a passion for programming and web development. I aspire to become a versatile and efficient developer, capable of solving complex challenges with creativity and logic. I am open to collaborating on projects that help me grow professionally and contribute with my knowledge.
 
 ## Technology Stack 💻
+<div id="badges">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
+ <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript Badge"/>
+ <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql Badge"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SqlServer Badge"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=whit" alt="Laravel Badge"/>
+   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Html Badge"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwindcss Badge"/>
+ 
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
+    
+</div>
 
 
 
