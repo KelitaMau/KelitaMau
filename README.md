@@ -1,5 +1,5 @@
 
-# <img src="bannerKelim2.png" width="800"/> 
+<img src="bannerKelim2.png" width="800"/> 
 
 Future systems engineer with a passion for programming and web development. I aspire to become a versatile and efficient developer, capable of solving complex challenges with creativity and logic. I am open to collaborating on projects that help me grow professionally and contribute with my knowledge.
 
@@ -18,6 +18,12 @@ Future systems engineer with a passion for programming and web development. I as
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
     
 </div>
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelitamau&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40&v=2" alt="my Github Stats"/>
+
+
+
 
 
 
