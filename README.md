@@ -27,7 +27,8 @@ Future systems engineer with a passion for programming and web development. I as
 </div>
 
 ## Proyects 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=kelitamau&repo=repo1&theme=radical)](https://github.com/DanielArmas22/Tesoreria-Laravel)  
+[![Tesoreria Laravel](https://github-readme-stats.vercel.app/api/pin/?username=DanielArmas22&repo=Tesoreria-Laravel&theme=radical)](https://github.com/DanielArmas22/Tesoreria-Laravel)
+
 
 
 
