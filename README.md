@@ -26,6 +26,9 @@ Future systems engineer with a passion for programming and web development. I as
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelitamau&layout=compact&title_color=2B5BBD&text_color=A1A1A1&bg_color=0,000000,130F40" alt="Top Langs"/> -->
 </div>
 
+## Proyects 
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=kelitamau&repo=repo1&theme=radical)](https://github.com/DanielArmas22/Tesoreria-Laravel)  
+
 
 
 
